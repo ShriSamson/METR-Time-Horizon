@@ -1,8 +1,8 @@
 axes.spines.right: False
 axes.spines.top: False
-# Set font to Montserrat
+# Use standard matplotlib fonts
 font.family: sans-serif
-font.sans-serif: Montserrat, Roboto
+font.sans-serif: DejaVu Sans, Helvetica, Arial, sans-serif
 font.weight: regular
 # Bold titles
 axes.titleweight: regular
